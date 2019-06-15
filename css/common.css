@@ -4,7 +4,7 @@
 @font-face {
     font-family : 'NotoSansCJKkr';
     src : url('../font/NotoSansCJKkr-Bold.eot') format('eot'),
-        url('../font/NotoSansCJKkr-Bold.eot?#iefix') format('embedded-opentype'),
+        /* url('../font/NotoSansCJKkr-Bold.eot?#iefix') format('embedded-opentype'), */
         url('../font/NotoSansCJKkr-Bold.woff') format('woff'),
         url('../font/NotoSansCJKkr-Bold.ttf') format('truetype');
     font-weight : 900;
@@ -14,7 +14,7 @@
     font-family : 'NotoSansCJKkr';
     src : url('../font/NotoSansCJKkr-Medium.eot') format('eot');
     src :
-        url('../font/NotoSansCJKkr-Medium.eot?#iefix') format('embedded-opentype'),
+        /* url('../font/NotoSansCJKkr-Medium.eot?#iefix') format('embedded-opentype'), */
         url('../font/NotoSansCJKkr-Medium.woff') format('woff'),
         url('../font/NotoSansCJKkr-Medium.ttf') format('truetype');
     font-weight : 700;
@@ -24,7 +24,7 @@
     font-family : 'NotoSansCJKkr';
     src : url('../font/NotoSansCJKkr-Regular.eot') format('eot');
     src :
-        url('../font/NotoSansCJKkr-Regular.eot?#iefix') format('embedded-opentype'),
+        /* url('../font/NotoSansCJKkr-Regular.eot?#iefix') format('embedded-opentype'), */
         url('../font/NotoSansCJKkr-Regular.woff') format('woff'),
         url('../font/NotoSansCJKkr-Regular.ttf') format('truetype');
     font-weight : 500;
@@ -34,7 +34,7 @@
     font-family : 'NotoSansCJKkr';
     src : url('../font/NotoSansCJKkr-DemiLight.eot') format('eot');
     src :
-        url('../font/NotoSansCJKkr-DemiLight.eot?#iefix') format('embedded-opentype'),
+        /* url('../font/NotoSansCJKkr-DemiLight.eot?#iefix') format('embedded-opentype'), */
         url('../font/NotoSansCJKkr-DemiLight.woff') format('woff'),
         url('../font/NotoSansCJKkr-DemiLight.ttf') format('truetype');
     font-weight : 300;
