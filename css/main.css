@@ -130,7 +130,6 @@ CONTENT_acting
     background:#fff;
     border-radius:53px;
 }
-.acting_item > span img{}
 .acting_item.rent > span{
     background:url('../img/ic_rent.png') 50% 50% no-repeat #fff;
 }
@@ -350,8 +349,6 @@ CONTENT_NICKNAME
     color:#ee5922;
     padding:56px 0 40px;
 }
-.nickname_list{}
-.nickname_list li{}
 .nickname_item{
     display: block;
     width: 100%;
@@ -477,7 +474,6 @@ CONTENT_NICKNAME
 .event_title p:first-child{
     margin-left:0;
 }
-.event_list{}
 .event_list > div{
     position:relative;
     float:left;
